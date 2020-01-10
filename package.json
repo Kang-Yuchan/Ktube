@@ -1,14 +1,11 @@
 {
-  "name": "ktube",
-  "version": "1.0.0",
-  "description": "Cloning youtube with JS and NodeJS",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "kang yuchan",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+	"name": "ktube",
+	"version": "1.0.0",
+	"description": "Cloning youtube with JS and NodeJS",
+	"main": "index.js",
+	"author": "kang yuchan",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.16.4"
+	}
 }
