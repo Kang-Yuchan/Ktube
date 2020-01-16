@@ -6,10 +6,10 @@ Cloning Youtube with JS and Node.js
 ## Pages:
 
 - [ ] Home
-- [ ] Join
-- [ ] Login
+- [x] Join
+- [x] Login
 - [x] Search
-- [x] User Detail
+- [ ] User Detail
 - [ ] Edit Profile
 - [ ] Change Password
 - [ ] Upload
