@@ -1,7 +1,0 @@
-extends layout/main.pug
-
-block content
-    .form__container
-        form(action=`/users${routes.editProfile}`, method="post")
-            label(for="avatar") Avatar
-            input(type="file", id="avatar", name="avatar")

@@ -1,25 +1,25 @@
 {
-	"name": "ktube",
-	"version": "1.0.0",
-	"description": "Cloning youtube with JS and NodeJS",
-	"main": "index.js",
-	"author": "kang yuchan",
-	"license": "ISC",
-	"dependencies": {
-		"@babel/core": "^7.7.7",
-		"@babel/node": "^7.7.7",
-		"@babel/preset-env": "^7.7.7",
-		"body-parser": "^1.19.0",
-		"cookie-parser": "^1.4.4",
-		"express": "^4.16.4",
-		"helmet": "^3.21.2",
-		"morgan": "^1.9.1",
-		"pug": "^2.0.4"
-	},
-	"scripts": {
-		"start": "nodemon --exec babel-node init.js --delay 2"
-	},
-	"devDependencies": {
-		"nodemon": "^2.0.2"
-	}
+  "name": "ktube",
+  "version": "1.0.0",
+  "description": "Cloning youtube with JS and NodeJS",
+  "main": "index.js",
+  "author": "kang yuchan",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/node": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "helmet": "^3.21.2",
+    "morgan": "^1.9.1"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node init.js --delay 2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
